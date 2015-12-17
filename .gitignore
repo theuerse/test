@@ -32,3 +32,6 @@ build
 
 # waf lock
 .lock-waf_*
+
+# everything waf
+.waf*
