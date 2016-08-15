@@ -12,3 +12,5 @@ Scenarios:
 		nfd-start
 		./producer --prefix /ndn101 --document-root ../res --data-size 100
 		./consumer --name /ndn101/samuel.txt/0
+
+![test](https://cloud.githubusercontent.com/assets/16044516/17676830/75647828-6330-11e6-83f5-5bb19d5f9575.png)
